@@ -111,7 +111,9 @@
       <img src="https://via.placeholder.com/250x150" alt="Produto 2">
       <div class="title">Produto Exemplo 2</div>
       <div class="price">R$ 349,90</div>
-      <button class="button-primary">Comprar</button>
+    a href="http://mpago.la/1dotChm" target="_blank" style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; text-decoration: none; font-size: 16px;">
+  Pagar agora
+</a>
     </div>
   </main>
 </body>
